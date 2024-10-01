@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:tea/screens/home_screen.dart';
 
 class MainScreen extends StatefulWidget {
   const MainScreen({super.key});
@@ -10,12 +11,7 @@ class MainScreen extends StatefulWidget {
 class _MainScreenState extends State<MainScreen> {
   int index = 0;
   final List<Widget> pages = [
-    const Center(
-      child: Text(
-        "Home screen",
-        style: TextStyle(color: Colors.black),
-      ),
-    ),
+    const HomeScreen(),
     const Center(
       child: Text(
         "Shop screen",
