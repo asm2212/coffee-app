@@ -14,4 +14,8 @@ Welcome to the Coffee App! 🌟 This Flutter application allows you to explore a
 - **Flutter**: The framework for building the app.
 - **Dart**: The programming language used.
 
+- ![3](https://github.com/user-attachments/assets/bd0f593d-58fe-4b6c-af83-60d2d20212b9)
+
+
+
 
