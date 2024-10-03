@@ -30,12 +30,9 @@ Special thanks to **Asad** for the beautiful UI design that enhances the overall
 2. Navigate into the project directory:
    ```bash
        cd coffee-app
-3.Install the dependencies:
-  ```bash
-        flutter pub get
-
-4.gh
-
+4.Run the app:
+ ```bash
+flutter run
 
 
 
